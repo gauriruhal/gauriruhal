@@ -7,15 +7,14 @@
 
 ## :woman_technologist: About me 
 
-- :woman_student: I'm a Computer Science undergrad at BITS Pilani
-- :computer: Currently an open source contributer at [Apertium](https://github.com/apertium)
-- :computer_mouse: The most recent project I did - [Chatbot for mental health](https://github.com/pandeyanuradha/Chatbot-for-mental-health.git)
-- 🌱 Currently learning Node.js and PyTorch
-- :e-mail: Contact me at anuradha200219@gmail.com
+- :woman_student: I'm a Sophomore🎓 pursuing Software-Engineering 
+- :computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
+- 🌱 I’m currently contributing to my personal projects which will open-sourced soon. 
+- :e-mail: Contact me at gauriruhal9@gmail.com
 
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pandeyanuradha&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauriruhal&theme=dark)](https://git.io/streak-stats)
 
 ##  :rocket: Languages and Tools
 
@@ -23,9 +22,9 @@
 
 ## :white_flower: Let's connect
 
-<a href="https://www.linkedin.com/in/anuradha-pandey-5823401a1/"> ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.kaggle.com/anpandey/"> ![alt text](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-)</a>
+<a href="http://linkedin.com/in/gauri-ruhal-953a571b1/"> ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 ## :chart_with_upwards_trend: My GitHub stats
 
-![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandeyanuradha&show_icons=true&theme=dracula)
+![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauriruhal&show_icons=true&theme=dracula)

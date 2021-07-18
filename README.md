@@ -7,7 +7,7 @@
 
 ## :woman_technologist: About me 
 
-- :woman_student: I'm a Sophomore🎓 pursuing Software-Engineering 
+- :woman_student: I'm an undergrad student🎓 pursuing Software-Engineering 
 - :computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
 - 🌱 I’m currently contributing to my personal projects which will open-sourced soon. 
 - :e-mail: Contact me at gauriruhal9@gmail.com

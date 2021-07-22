@@ -10,7 +10,7 @@
 - :woman_student: I'm an undergrad student🎓 pursuing Software-Engineering 
 - :computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
 - 🌱 I’m currently contributing to my personal projects which will open-sourced soon. 
-- :e-mail: Contact me at gauriruhal9@gmail.com
+
 
 
 
@@ -22,7 +22,9 @@
 
 ## :white_flower: Let's connect
 
-<a href="http://linkedin.com/in/gauri-ruhal-953a571b1/"> ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="http://linkedin.com/in/gauri-ruhal-953a571b1/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+<a href="mailto:ruhalgauri@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
+<a href="https://twitter.com/gauriruhal"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
 
 
 ## :chart_with_upwards_trend: My GitHub stats

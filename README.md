@@ -10,7 +10,7 @@
 - :woman_student: I'm an undergrad student🎓 pursuing Software-Engineering 
 - :computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
 - 🌱 I’m currently contributing to my personal projects which will open-sourced soon. 
-
+- 💻 **Favourite word** : nodemon
 
 
 

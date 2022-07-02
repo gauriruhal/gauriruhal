@@ -36,3 +36,8 @@
 ## :chart_with_upwards_trend: My GitHub stats
 
 ![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauriruhal&show_icons=true&theme=dracula)
+
+
+[![Gauri's github activity graph](https://activity-graph.herokuapp.com/graph?username=gauriruhal&theme=radical&bg_color=pinka&hide_border=true&area=true)](https://git.io/gauriruhal)
+
+

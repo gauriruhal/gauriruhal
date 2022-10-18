@@ -7,7 +7,7 @@
 
 ## :woman_technologist: About me 
 
-- :woman_student: I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering 
+- :woman_student: I'm in my final year of study as a student🎓 pursuing Software-Engineering 
 - :computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
 - 🌱 I’m currently contributing to my personal projects which will open-sourced soon. 
 - 💻 **Favourite word** : nodemon
